@@ -4,3 +4,4 @@ y=a-b
 z=a*b
 w=a/b
 s=a%b
+basic calculator functions:
