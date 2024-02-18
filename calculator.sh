@@ -8,4 +8,5 @@ z=a*b
 w=a/b
 # percentage function
 s=a%b
+#added merge
 *******basic calculator functions*******
