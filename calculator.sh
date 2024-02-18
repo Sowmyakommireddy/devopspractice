@@ -9,3 +9,4 @@ w=a/b
 # percentage function
 s=a%b
 *******basic calculator functions*******
+#main
